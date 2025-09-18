@@ -19,7 +19,7 @@ Learn more about AI:X Labs: https://www.aix.aau.dk/ (EN: https://www.en.aix.aau.
 
 | Image | Intro & contact |
 |:--|:--|
-| <img src="https://media.licdn.com/dms/image/v2/D4D03AQEWmpvKd3dfxA/profile-displayphoto-shrink_800_800/B4DZZ4K5NLGwAc-/0/1745772844484?e=1761177600&v=beta&t=V02sroRp4qSo4cU_9lrrVux8I_x0OAI8n_FIVvNs9qI" alt="Hugo Markoff" width="120" style="border-radius:10px;object-fit:cover;" /> | <div style="vertical-align:top;"><strong><a href="https://vbn.aau.dk/da/persons/hugo-markoff">Hugo Markoff</a></strong> — PhD Fellow, Dept. of Chemistry & Bioscience — <a href="mailto:khbm@bio.aau.dk">khbm@bio.aau.dk</a><br><br>Computer vision for biodiversity: ViT/VLM pipelines for semi‑autonomous labeling, species clustering, and extracting interaction signals from imagery; integrates outputs into graph models for network forecasting.</div> |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQEWmpvKd3dfxA/profile-displayphoto-shrink_800_800/B4DZZ4K5NLGwAc-/0/1745772844484?e=1761177600&v=beta&t=V02sroRp4qSo4cU_9lrrVux8I_x0OAI8n_FIVvNs9qI" alt="Hugo Markoff" width="120" style="border-radius:10px;object-fit:cover;" /> | <div style="vertical-align:top;"><strong><a href="https://www.linkedin.com/in/hugo-markoff/">Hugo Markoff</a></strong> — PhD Fellow, Dept. of Chemistry & Bioscience — <a href="mailto:khbm@bio.aau.dk">khbm@bio.aau.dk</a><br><br>Computer vision for biodiversity: ViT/VLM pipelines for semi‑autonomous labeling, species clustering, and extracting interaction signals from imagery; integrates outputs into graph models for network forecasting.</div> |
 
 - Karen Ankersen Sønnichsen
 - Nicholas Herrmann

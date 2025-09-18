@@ -4,7 +4,7 @@ AI:EcoNet is an AI:X Lab at Aalborg University bridging ecology and computer sci
 predict species interactions and network dynamics under environmental change. We build
 vision and graph models to accelerate biodiversity monitoring and forecast how ecological
 networks are restructured as a result of climate and land use changes.
-Learn more about AI:X Labs: https://www.aix.aau.dk/ (EN: https://www.en.aix.aau.dk/)
+Learn more about our AI:EcoNet Lab [here](https://www.cs.aau.dk/nature-under-the-ai-lens-when-plants-and-animals-disappear-it-can-have-major-consequences-n135626) and the AI:X initiative [here](https://www.en.aix.aau.dk/) 
 
 ## People
 

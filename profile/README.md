@@ -6,6 +6,10 @@ vision and graph models to accelerate biodiversity monitoring and forecast how e
 networks are restructured as a result of climate and land use changes.
 Learn more about our AI:EcoNet Lab [here](https://www.cs.aau.dk/nature-under-the-ai-lens-when-plants-and-animals-disappear-it-can-have-major-consequences-n135626) and the AI:X initiative [here](https://www.en.aix.aau.dk/) 
 
+<p align="center">
+  <img src="../images/IMG_0832.jpg" alt="AI:EcoNet Team" width="600" style="border-radius:10px;" />
+</p>
+
 ## People
 
 ### Lab Directors
@@ -24,9 +28,6 @@ Learn more about our AI:EcoNet Lab [here](https://www.cs.aau.dk/nature-under-the
 |  | **[Shuangzhulong Li](https://vbn.aau.dk/en/persons/shuali/)** — PhD Fellow, Dept. of Computer Science — [shuali@cs.aau.dk](mailto:shuali@cs.aau.dk)<br><br>**About:** Shuangzhulong Li has a background in machine learning and data science. His PhD project seeks to develop novel representation learning methods for temporal networks. The research will focus on designing scalable algorithms that can efficiently learn from both the structure and the evolution of complex systems. By integrating concepts from graph neural networks, temporal modeling, and large-scale data analysis, the project aims to uncover new ways to represent and interpret dynamic relationships. |
 | <img src="../images/karen.jpeg" alt="Karen Ankersen Sønnichsen" width="240" height="240" style="border-radius:10px;object-fit:cover;" /> | <div style="vertical-align:top;"><strong><a href="https://www.linkedin.com/in/karen-a-s%C3%B8nnichsen/">Karen Ankersen Sønnichsen</a></strong> — PhD Fellow, Dept. of Chemistry & Bioscience — <a href="mailto:karenanksoe@bio.aau.dk">karenanksoe@bio.aau.dk</a><br><br><strong>About:</strong> Karen has a background in marine ecology. Her research in AI:EcoNet focuses on applying AI to investigate the biotic and abiotic drivers shaping marine food webs with the aim of advancing our understanding of ecosystem responses to shifting ocean conditions.</div> |
 
-<p align="center">
-  <img src="../images/IMG_0832.jpg" alt="AI:EcoNet Team" width="600" style="border-radius:10px;" />
-</p>
 
 ## Reach out to collaborate
 
